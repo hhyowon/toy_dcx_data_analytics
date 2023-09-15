@@ -17,7 +17,6 @@
 <img src="./images/병원리뷰.JPG" width="600" >
 
 - csv로 저장하기
-- 
 [eyereviews_list.csv](./datasets/eyereviews_list.csv)
 <img src="./images/csv.JPG" width="600">
 
